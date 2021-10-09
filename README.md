@@ -1,2 +1,2 @@
 # controller
-Simple site controller
+Simple API controller
